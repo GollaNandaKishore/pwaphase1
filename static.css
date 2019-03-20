@@ -1,0 +1,32 @@
+body{
+  background: #0000ff;
+}
+.parent {
+  background: black;
+  display:flex;
+  /* display: 25; */
+  justify-content: space-around;
+}
+.child1 {
+  background: blue;
+  margin:2%;
+  padding: 5%;
+  text-align: center;
+  box-shadow: 5px 5px 5px yellow;
+  width: 25%;
+}
+.child2 {
+  background: pink ;
+  margin: 1%;
+  padding: 5%;
+  justify-content: space-around;
+  text-align: center;
+  box-shadow: 5px 5px 5px yellow;
+  width: 75%;
+}
+image {
+  width: 80%;
+}
+table {
+  border: 1px solid red;
+}

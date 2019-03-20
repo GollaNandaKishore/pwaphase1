@@ -1,0 +1,43 @@
+{
+  "basics":{
+    "img":"image/download.png",
+    "name":"Nanda kishore",
+    "email":"nandu.g9866@gmail.com"
+  },
+  "carrier":{
+    "info":"I wanted to explore my talent through some platforms"
+
+  },
+"education":
+[
+  {
+      "sno":"1",
+      "degree":"btech",
+      "institute":"MITS",
+      "per":"90%"
+    },
+    {
+      "sno":"2",
+      "degree":"Intermediate",
+      "institute":"NarayanaCollege",
+      "per":"92%"
+    },
+    {
+      "sno":"3",
+      "degree":"SSC",
+      "institute":"SVNH",
+      "per":"97%"
+    }
+  ],
+  "skills":[
+  {
+    "info":"c"
+  },
+  {
+    "info":"c++"
+  },
+  {
+    "info":"java"
+  }
+  ]
+}

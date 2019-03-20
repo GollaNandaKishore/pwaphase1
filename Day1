@@ -1,0 +1,22 @@
+body{
+  background: blue;
+}
+.p{
+  background: green;
+  display:flex;
+  margin:5%;
+  padding:5%;
+justify-content: space-around;
+}
+.c{
+  background: red;
+  padding:3%;
+  text-align: center;
+  border-radius: 6%;
+  margin: 2%;
+  box-shadow: 5px 5px 5px blue;
+  img{
+    width: 100%;
+  }
+
+}
